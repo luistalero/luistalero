@@ -1,7 +1,5 @@
 # Hola Soy Luis Alberto Talero Martinez👋 | Hi, I'm Luis Alberto Talero Martinez👋
-<!--
-<h3 align="center">👨‍💻 Estudiante de programación y apasionado por el desarrollo de software. Siempre aprendiendo nuevas tecnologías. ¡Mira mis proyectos y colabora! 👇</h3>
--->
+
 ## 🌎 Español | English 🌎
 
 ### Español 🇪🇸
@@ -40,8 +38,8 @@ I’m interested in learning more about **backend development** and **databases*
 
 # Conecta conmigo:
 
-- <a href="https://linkedin.com/in/luis alberto talero martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis alberto talero martinez" height="30" width="40" /></a>
-- <a href="https://fb.com/luis talero" target="blank"><img alinear="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis talero" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/luis-alberto-talero-martinez-948133320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis alberto talero martinez" height="30" width="40" /></a>
+- <a href="https://www.facebook.com/luisalberto.taleromartinez.3" target="blank"><img alinear="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis talero" height="30" width="40" /></a>
 - <a href="https://instagram.com/luis_talero18" destino="blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_talero18" height="30" width="40" /></a>
 - <a href="https://discord.gg/https://discord.gg/BXFpGtVu" destino="blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BXFpGtVu" height="40" width="50" /></a>
 
@@ -72,17 +70,15 @@ I’m interested in learning more about **backend development** and **databases*
 - MySQL Workbench  
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
 
-<img align="left" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luistalero&show_icons=true&locale=es" alt="luistalero" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luistalero&show_icons=true&locale=es" alt="luistalero" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luistalero&" alt="luistalero" /></p>
-
-<div align="center">
-  <p>🌱 Siempre aprendiendo y abierto a nuevas oportunidades | Always learning and open to new opportunities 🌱</p>
-</div>
+<img align="left" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luistalero&show_icons=true&locale=es" alt="luistalero" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luistalero&show_icons=true&locale=es" alt="luistalero" />
 
 ![pac-manGithub](https://github.com/user-attachments/assets/94cba98b-42ff-4499-875e-30e8f29e8a3a)
+
+<div align="center" >
+    <p>🌱 Siempre aprendiendo y abierto a nuevas oportunidades | Always learning and open to new opportunities 🌱</p>
+</div>
 
 Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
