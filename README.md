@@ -70,15 +70,16 @@ I’m interested in learning more about **backend development** and **databases*
 - MySQL Workbench  
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
 
-<img align="left" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luistalero&show_icons=true&locale=es" alt="luistalero" />
+---
+
+## 📊 Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luistalero&layout=compact&theme=dark)
+
+---
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luistalero&show_icons=true&locale=es" alt="luistalero" />
 
 ![pac-manGithub](https://github.com/user-attachments/assets/94cba98b-42ff-4499-875e-30e8f29e8a3a)
-
-<div align="center" >
-    <p>🌱 Siempre aprendiendo y abierto a nuevas oportunidades | Always learning and open to new opportunities 🌱</p>
-</div>
 
 Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
