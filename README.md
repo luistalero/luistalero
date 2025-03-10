@@ -26,13 +26,15 @@
 
 ### Español 🇪🇸
 
-Soy un **Desarrollador Fullstack Junior** con experiencia en **desarrollo web** y una orientación hacia soluciones escalables. Actualmente, estoy formándome y he trabajado con tecnologías como **HTML, CSS, JavaScript y MySQL**.  
-Estoy interesado en aprender más sobre **backend** y **bases de datos** para desarrollar aplicaciones completas. También cuento con experiencia usando **Git y GitHub**, colaborando en equipo y gestionando flujos de trabajo organizados.
+Soy un Desarrollador Fullstack Junior con experiencia en desarrollo web y orientado a soluciones escalables. Me apasiona la programación y siempre estoy buscando mejorar mis habilidades. He trabajado con Python, Java, JavaScript, HTML, CSS y MySQL.
 
-### English 🇺🇸
+Actualmente, me interesa seguir aprendiendo sobre backend y bases de datos para desarrollar aplicaciones completas. Además, tengo experiencia con Git y GitHub, colaborando en equipo y gestionando flujos de trabajo organizados.
 
-I’m a **Junior Fullstack Developer** with experience in **web development** and a focus on scalable solutions. I’m currently training and have worked with technologies like **HTML, CSS, JavaScript, and MySQL**.  
-I’m interested in learning more about **backend development** and **databases** to build complete applications. I also have experience with **Git and GitHub**, collaborating in teams, and managing organized workflows.
+### English 🇺🇸 
+
+I'm a Junior Fullstack Developer with experience in web development and a focus on scalable solutions. I’m passionate about programming and always looking to improve my skills. I have worked with Python, Java, JavaScript, HTML, CSS, and MySQL.
+
+Currently, I am interested in learning more about backend development and databases to build complete applications. I also have experience with Git and GitHub, collaborating in teams, and managing organized workflows.
 
 ---
 
