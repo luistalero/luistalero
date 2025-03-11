@@ -81,7 +81,5 @@ Currently, I am interested in learning more about backend development and databa
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luistalero&show_icons=true&locale=es" alt="luistalero" />
 
-![pac-manGithub](https://github.com/user-attachments/assets/94cba98b-42ff-4499-875e-30e8f29e8a3a)
-
 Gracias por visitar mi perfil. ¡Estoy emocionado por las oportunidades de aprender y colaborar!
 </p>
